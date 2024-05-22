@@ -7,14 +7,14 @@
 
 <h2>ℹ️ About Me:</h2>
 <div>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+👋 Hi, I’m @BitmasterXor, deeply immersed in Ethical Computer Hacking, IT Security Research, and extensive malware analysis.
+👀 With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.
+🌱 My journey in malware analysis spans numerous investigations, dissecting and understanding the inner workings of various types of malicious software.
+💼 Specializing in native programming languages, I utilize my expertise to develop advanced tools and techniques for malware detection and mitigation.
+🔍 My passion lies in unraveling the complexities of malware, identifying patterns, and developing innovative strategies to combat emerging threats.
+💞 Collaborating on malware research projects is where I thrive, leveraging my skills to contribute meaningfully to the cybersecurity community.
+🚀 With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.
+📫 Connect with me on Discord at BitmasterXor#0984 or simply BitmasterXor, and let's join forces to tackle the challenges of malware research head-on.
 </div>
 
 

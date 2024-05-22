@@ -60,15 +60,12 @@
 </br>
 
 <h2>:bulb: Languages & Frameworks I code in</h2>
-<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-<code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
-<code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+<code><img title="Pascal" alt="Pascal" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-original.svg" /></code>
+<code><img title="Delphi" alt="Delphi" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" /></code>
+<code><img title="Visual Basic 6.0" alt="Visual Basic 6.0" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" /></code>
+<code><img title="Python" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="Ruby" alt="Ruby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></code>
+<code><img title="Perl" alt="Perl" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" /></code>
 </br></br>
 
 <h2>:hammer_and_wrench: Things that help me getting my code done</h2>

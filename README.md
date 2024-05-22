@@ -5,13 +5,44 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+👋 Hi, I’m @BitmasterXor, deeply immersed    
+in Ethical Computer Hacking, IT Security     
+Research, and extensive malware analysis.    
 
-- 🌱 I am currently in the race **Software Design and Development**
+👀 With over a decade of experience in       
+Delphi programming, I've ventured into the  
+intricate world of malware research.        
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+🌱 My journey in malware analysis spans     
+numerous investigations, dissecting and     
+understanding the inner workings of various 
+types of malicious software.                
 
-- 📫 How to reach me **davidmramos30@gmail.com**
+💼 Specializing in native programming       
+languages, I utilize my expertise to        
+develop advanced tools and techniques for   
+malware detection and mitigation.           
+
+🔍 My passion lies in unraveling the        
+complexities of malware, identifying        
+patterns, and developing innovative         
+strategies to combat emerging threats.      
+
+💞 Collaborating on malware research        
+projects is where I thrive, leveraging my   
+skills to contribute meaningfully to the   
+cybersecurity community.                    
+
+🚀 With a relentless drive for innovation,  
+I'm committed to staying ahead of the curve 
+in the ever-evolving landscape of cyber     
+threats.                                   
+
+📫 Connect with me on Discord at            
+BitmasterXor#0984 or simply BitmasterXor,   
+and let's join forces to tackle the         
+challenges of malware research head-on.     
+
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>

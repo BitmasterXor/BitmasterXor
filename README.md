@@ -5,14 +5,40 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <!-- BREVE DESCRIPCION -->
-👋 Hi, I’m @BitmasterXor, deeply immersed in Ethical Computer Hacking, IT Security Research, and extensive malware analysis.  
-👀 With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.  
-🌱 My journey in malware analysis spans numerous investigations, dissecting and understanding the inner workings of various types of malicious software.  
-💼 Specializing in native programming languages, I utilize my expertise to develop advanced tools and techniques for malware detection and mitigation.  
-🔍 My passion lies in unraveling the complexities of malware, identifying patterns, and developing innovative strategies to combat emerging threats.  
-💞 Collaborating on malware research projects is where I thrive, leveraging my skills to contribute meaningfully to the cybersecurity community.  
-🚀 With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.  
-📫 Connect with me on Discord at BitmasterXor#0984 or simply BitmasterXor, and let's join forces to tackle the challenges of malware research head-on.
+<div class="container">
+  <div class="profile-item">
+    <h2>👋 Hi, I’m @BitmasterXor</h2>
+    <p>Deeply immersed in Ethical Computer Hacking, IT Security Research, and extensive malware analysis.</p>
+  </div>
+  <div class="profile-item">
+    <h2>👀 Experience</h2>
+    <p>Over a decade of experience in Delphi programming, specializing in malware research.</p>
+  </div>
+  <div class="profile-item">
+    <h2>🌱 Journey</h2>
+    <p>My journey in malware analysis spans numerous investigations, dissecting and understanding the inner workings of various types of malicious software.</p>
+  </div>
+  <div class="profile-item">
+    <h2>💼 Specialization</h2>
+    <p>Specializing in native programming languages, developing advanced tools and techniques for malware detection and mitigation.</p>
+  </div>
+  <div class="profile-item">
+    <h2>🔍 Passion</h2>
+    <p>Passionate about unraveling the complexities of malware, identifying patterns, and developing innovative strategies to combat emerging threats.</p>
+  </div>
+  <div class="profile-item">
+    <h2>💞 Collaboration</h2>
+    <p>Thriving on collaborating on malware research projects, leveraging skills to contribute meaningfully to the cybersecurity community.</p>
+  </div>
+  <div class="profile-item">
+    <h2>🚀 Drive</h2>
+    <p>With a relentless drive for innovation, committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.</p>
+  </div>
+  <div class="profile-item">
+    <h2>📫 Connect</h2>
+    <p>Connect with me on Discord at BitmasterXor#0984 or simply BitmasterXor, and let's join forces to tackle the challenges of malware research head-on.</p>
+  </div>
+</div>
 
 
 

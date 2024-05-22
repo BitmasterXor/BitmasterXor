@@ -42,17 +42,18 @@
 
 
 
-<!-- CONTACTO -->
+
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.quora.com/profile/BitmasterXor" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/quora.svg" alt="Quora" height="30" width="40" />
+    <img src="https://qsf.fs.quoracdn.net/-4-ans_frontend-assets.images.quora_open_graph_default.png-26-ebdecd330e8fd670.png" alt="Quora" height="30" width="30" />
   </a>
   <a href="https://www.reddit.com/user/BitmasterXor/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="40" />
   </a>
 </p>
+
 
 
 

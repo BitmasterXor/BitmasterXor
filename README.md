@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @BitmasterXor
-- 👀 I’m interested in Ethical Computer Hacking and IT Security Research
-- 🌱 I’m currently learning and have been Learning the Delphi Programming Language for well over 10+ years now. 
-- 💞️ I’m looking to collaborate on IT Security Projects (But only using native programming Languages)
-- 📫 How to reach me | I have a Discord: BitmasterXor#0984 Or just my Discord Name: BitmasterXor
+👋 Hi, I’m @BitmasterXor, deeply immersed in Ethical Computer Hacking, IT Security Research, and extensive malware analysis.
+👀 With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.
+🌱 My journey in malware analysis spans numerous investigations, dissecting and understanding the inner workings of various types of malicious software.
+💼 Specializing in native programming languages, I utilize my expertise to develop advanced tools and techniques for malware detection and mitigation.
+🔍 My passion lies in unraveling the complexities of malware, identifying malware, and creating malware.
+💞 Collaborating on malware research projects is where I thrive, leveraging my skills to contribute meaningfully to the cybersecurity community.
+🚀 With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.
+📫 Connect with me on Discord at BitmasterXor#0984 or simply BitmasterXor, and let's join forces to tackle the challenges of malware research head-on.
+
 
 <!---
 BitmasterXor/BitmasterXor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

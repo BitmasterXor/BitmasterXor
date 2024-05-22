@@ -13,7 +13,7 @@
             <td>Hi, I’m @BitmasterXor, deeply immersed in Ethical Computer Hacking, IT Security Research, and extensive malware analysis.</td>
         </tr>
         <tr>
-            <td>👀</td>
+            <td>💡</td>
             <td>With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.</td>
         </tr>
         <tr>

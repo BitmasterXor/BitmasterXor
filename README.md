@@ -46,23 +46,17 @@
 
 
 
-<h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/Carol42">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
+<h2>:busts_in_silhouette: Connect With Me:</h2>
+<a href="https://www.reddit.com/user/BitmasterXor">
+    <img alt="Link to my Reddit" src="https://img.shields.io/static/v1?label&message=/BitmasterXor&color=FF4500&style=for-the-badge&logo=reddit" height="22px">
 </a>
-<a href="https://codepen.io/Carol42">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
+<a href="https://www.quora.com/profile/BitmasterXor">
+    <img alt="link to my Quora" src="https://img.shields.io/static/v1?label&message=/BitmasterXor&color=B92B27&style=for-the-badge&logo=quora" height="22px" />
 </a>
-<a href="https://linkedin.com/in/carol42">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+<a href="https://discord.gg/BitmasterXor">
+    <img alt="Link to my Discord" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=BitmasterXor#0984&color=7289DA&logo=discord" height="22px">
 </a>
-<a href="https://twitter.com/carol42helo/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@carol42helo&color=000&logo=x" height="22px">
-</a>
-</a>
-<a href="mailto:carol42.helo@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
-</a>
+
 </br>
 
 <h2>:bulb: Languages & Frameworks I code in</h2>

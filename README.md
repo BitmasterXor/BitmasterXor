@@ -65,7 +65,7 @@
 <code><img title="Visual Basic 6.0" alt="Visual Basic 6.0" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" /></code>
 <code><img title="Python" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="Ruby" alt="Ruby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></code>
-<code><img title="Perl" alt="Perl" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" /></code>
+<code><img title="Perl" alt="Perl" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-plain.svg" /></code>
 </br></br>
 
 <h2>:hammer_and_wrench: Things that help me getting my code done</h2>

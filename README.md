@@ -5,7 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+BitmasterXor;Delphi Is My Language!;The Language Of The GODS!;" alt="Delphi Developer, Malware Developer, IT Security Researcher"></a>
 </div>
 
-<h2>ℹ️ Project info</h2>
+<h2>ℹ️ About Me:</h2>
 <div>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">

@@ -46,10 +46,10 @@
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.quora.com/profile/Anderson-Mendoza-Ramos" target="_blank">
+  <a href="https://www.quora.com/profile/BitmasterXor" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/quora.svg" alt="Quora" height="30" width="40" />
   </a>
-  <a href="https://www.reddit.com/user/andersonmr5302" target="_blank">
+  <a href="https://www.reddit.com/user/BitmasterXor/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="40" />
   </a>
 </p>

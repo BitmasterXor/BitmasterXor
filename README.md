@@ -5,17 +5,20 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+BitmasterXor;Delphi Is My Language!;The Language Of The GODS!;" alt="Delphi Developer, Malware Developer, IT Security Researcher"></a>
 </div>
 
-<h2>ℹ️ About Me:</h2>
 <div>
-👋 Hi, I’m @BitmasterXor, deeply immersed in Ethical Computer Hacking, IT Security Research, and extensive malware analysis.
-👀 With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.
-🌱 My journey in malware analysis spans numerous investigations, dissecting and understanding the inner workings of various types of malicious software.
-💼 Specializing in native programming languages, I utilize my expertise to develop advanced tools and techniques for malware detection and mitigation.
-🔍 My passion lies in unraveling the complexities of malware, identifying patterns, and developing innovative strategies to combat emerging threats.
-💞 Collaborating on malware research projects is where I thrive, leveraging my skills to contribute meaningfully to the cybersecurity community.
-🚀 With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.
-📫 Connect with me on Discord at BitmasterXor#0984 or simply BitmasterXor, and let's join forces to tackle the challenges of malware research head-on.
+    <h2>ℹ️ About Me:</h2>
+    <ul>
+        <li>👋 Hi, I’m @BitmasterXor, deeply immersed in Ethical Computer Hacking, IT Security Research, and extensive malware analysis.</li>
+        <li>👀 With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.</li>
+        <li>🌱 My journey in malware analysis spans numerous investigations, dissecting and understanding the inner workings of various types of malicious software.</li>
+        <li>💼 Specializing in native programming languages, I utilize my expertise to develop advanced tools and techniques for malware detection and mitigation.</li>
+        <li>🔍 My passion lies in unraveling the complexities of malware, identifying patterns, and developing innovative strategies to combat emerging threats.</li>
+        <li>💞 Collaborating on malware research projects is where I thrive, leveraging my skills to contribute meaningfully to the cybersecurity community.</li>
+        <li>🚀 With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.</li>
+        <li>📫 Connect with me on Discord at BitmasterXor#0984 or simply BitmasterXor, and let's join forces to tackle the challenges of malware research head-on.</li>
+    </ul>
 </div>
+
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>

@@ -10,7 +10,7 @@
     <table>
         <tr>
             <td>👋</td>
-            <td>Hi, I’m @BitmasterXor, deeply immersed in Ethical Computer Hacking, IT Security Research, and extensive malware analysis.</td>
+            <td>Hi, I’m @BitmasterXor, deeply immersed in Computer Hacking, IT Security Research, and Malware Development.</td>
         </tr>
         <tr>
             <td>💡</td>

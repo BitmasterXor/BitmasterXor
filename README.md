@@ -35,7 +35,9 @@
             <td>🚀</td>
             <td>With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.</td>
         </tr>
-    <p>📬 Reach out to me via my Discord: bitmasterxor</p>
+        <tr>
+    <td>📬 Reach out to me via my Discord: bitmasterxor</td>
+            </tr>
     </table>
 </div>
 

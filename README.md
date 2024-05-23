@@ -45,7 +45,7 @@
 
 
 
-<h2 style="text-align: Left;">:busts_in_silhouette: Connect With Me:</h2>
+<h2 style="text-align: center;">:busts_in_silhouette: Connect With Me:</h2>
 <div style="text-align: center;">
     <a href="https://www.reddit.com/user/BitmasterXor">
         <img alt="Link to my Reddit" src="https://img.shields.io/static/v1?label&message=/BitmasterXor&color=FF4500&style=for-the-badge&logo=reddit" height="22px">

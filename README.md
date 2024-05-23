@@ -4,7 +4,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23C9FFB6&size=30&center=true&vCenter=true&width=450&lines=I'm+BitmasterXor;Delphi Is My Language!;The Language Of The GODS!;" alt="Delphi Developer, Malware Developer, IT Security Researcher"></a>
 </div>
-
 <div>
     <h2>ℹ️ About Me:</h2>
     <table>
@@ -37,8 +36,8 @@
             <td>With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.</td>
         </tr>
     </table>
+    <p>📬 Reach out to me via my Discord: bitmasterxor</p>
 </div>
-
 
 
 
@@ -48,9 +47,6 @@
 </a>
 <a href="https://www.quora.com/profile/BitmasterXor">
     <img alt="link to my Quora" src="https://img.shields.io/static/v1?label&message=/BitmasterXor&color=B92B27&style=for-the-badge&logo=quora" height="22px" />
-</a>
-<a href="[https://discordapp.com/users/502866937617973260/bitmasterxor">
-    <img alt="Link to my Discord" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=BitmasterXor#0984&color=7289DA&logo=discord" height="22px">
 </a>
 
 </br>

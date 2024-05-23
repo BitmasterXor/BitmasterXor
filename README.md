@@ -36,10 +36,6 @@
             <td>🚀</td>
             <td>With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.</td>
         </tr>
-        <tr>
-            <td>📫</td>
-            <td>Connect with me on Discord at BitmasterXor#0984 or simply BitmasterXor, and let's join forces to tackle the challenges of malware research head-on.</td>
-        </tr>
     </table>
 </div>
 

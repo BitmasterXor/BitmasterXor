@@ -53,7 +53,7 @@
 <a href="https://www.quora.com/profile/BitmasterXor">
     <img alt="link to my Quora" src="https://img.shields.io/static/v1?label&message=/BitmasterXor&color=B92B27&style=for-the-badge&logo=quora" height="22px" />
 </a>
-<a href="https://discord.gg/BitmasterXor">
+<a href="[https://discordapp.com/users/502866937617973260/bitmasterxor">
     <img alt="Link to my Discord" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=BitmasterXor#0984&color=7289DA&logo=discord" height="22px">
 </a>
 

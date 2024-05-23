@@ -45,7 +45,7 @@
 
 
 
-<h2>:busts_in_silhouette: <span style="display: block; text-align: center;">Connect With Me:</span></h2>
+<h2 style="display: block; text-align: left;">:busts_in_silhouette: Connect With Me:</h2>
 <div style="text-align: center;">
     <a href="https://www.reddit.com/user/BitmasterXor">
         <img alt="Link to my Reddit" src="https://img.shields.io/static/v1?label&message=/BitmasterXor&color=FF4500&style=for-the-badge&logo=reddit" height="22px">
@@ -61,6 +61,7 @@
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=2ef847&center=true&vCenter=true&width=900&lines=Thanks+for+your+visit!;Remember+There+Is+always+a+Crack,+That+is+how+the+Light+Shines+Through!">
     </a>
 </div>
+
 
 </div>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=12631C&style=flat&logo" alt="back to top" /></a></p>

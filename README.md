@@ -21,7 +21,7 @@
     </tr>
     <tr>
         <td>💼</td>
-        <td>Specializing in native programming languages, I utilize my expertise to develop advanced tools and techniques for malware detection and mitigation.</td>
+        <td>Specializing in native programming languages, I utilize my expertise to develop Malware For Educational purposes.</td>
     </tr>
     <tr>
         <td>🔍</td>

@@ -25,7 +25,7 @@
     </tr>
     <tr>
         <td>🔍</td>
-        <td>My passion lies in unraveling the complexities of malware, identifying patterns, and developing innovative strategies to combat emerging threats.</td>
+        <td>My passion lies in unraveling the complexities of malware, identifying patterns, and developing innovative strategies to understand how malware works under the hood.</td>
     </tr>
     <tr>
         <td>💞</td>

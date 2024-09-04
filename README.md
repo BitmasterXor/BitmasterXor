@@ -59,18 +59,11 @@
     <a href="https://www.youtube.com/c/BitmasterXor" style="display: inline-block;">
         <img alt="Link to my YouTube" src="https://img.shields.io/static/v1?label&message=/BitmasterXor&color=FF0000&style=for-the-badge&logo=youtube" height="22px">
     </a>
+    <a href="https://discord.com/users/BitmasterXor" style="display: inline-block;">
+        <img alt="Link to my Discord" src="https://img.shields.io/static/v1?label&message=BitmasterXor&color=7289DA&style=for-the-badge&logo=discord" height="22px">
+    </a>
     <br>
     <a href="https://git.io/typing-svg">
         <img alt="Thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=2ef847&center=true&vCenter=true&width=900&lines=Thanks+for+your+visit!;Remember+There+Is+always+a+Crack,+That+is+how+the+Light+Shines+Through!">
     </a>
-</div>
-
-<p align="right">
-    <a href="#top">
-        <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=12631C&style=flat&logo" alt="back to top">
-    </a>
-</p>
-
-<div align="center">
-    <img alt="" width="100%" src="https://github.com/BitmasterXor/BitmasterXor/blob/main/assets/footer.png?raw=true">
 </div>

@@ -50,9 +50,10 @@
 
 <h2>:busts_in_silhouette: Connect With Me:</h2>
 <div align="center">
-    <a href="https://www.reddit.com/user/BitmasterXor" style="display: inline-block;">
-        <img alt="Link to my Reddit" src="https://img.shields.io/static/v1?label&message=/BitmasterXor&color=FF4500&style=for-the-badge&logo=reddit" height="22px">
-    </a>
+   <a href="https://www.reddit.com/user/BitmasterXor" style="display: inline-block;">
+    <img alt="Link to my Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500?logo=reddit&logoColor=white&style=for-the-badge" height="22px">
+</a>
+
     <a href="https://www.quora.com/profile/BitmasterXor" style="display: inline-block;">
         <img alt="Link to my Quora" src="https://img.shields.io/static/v1?label&message=/BitmasterXor&color=B92B27&style=for-the-badge&logo=quora" height="22px">
     </a>

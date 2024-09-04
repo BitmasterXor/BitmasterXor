@@ -43,7 +43,7 @@
         </tr>
         <tr>
             <td>📬</td>
-            <td>Reach out to me via my Discord: <strong>BitmasterXor</strong>, if you're interested in partaking in this journey with me and my fellow researchers!</td>
+            <td>Reach out to me if you're interested in partaking in this IT journey with me and my fellow researchers!</td>
         </tr>
     </table>
 </div>

@@ -56,22 +56,35 @@
     </table>
 </div>
 
-<h2>:busts_in_silhouette: Connect With Me:</h2>
+<!-- Connect Section -->
+<h2>🌐 Connect With Me</h2>
 <div align="center">
-    <a href="https://www.reddit.com/user/BitmasterXor" style="display: inline-block;">
-        <img alt="Link to my Reddit" src="https://img.shields.io/static/v1?label=Reddit&message=/BitmasterXor&color=FF4500&style=for-the-badge&logo=reddit" height="22px">
+    <a href="https://www.reddit.com/user/BitmasterXor">
+        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
     </a>
-    <a href="https://www.quora.com/profile/BitmasterXor" style="display: inline-block;">
-        <img alt="Link to my Quora" src="https://img.shields.io/static/v1?label=Quora&message=/BitmasterXor&color=B92B27&style=for-the-badge&logo=quora" height="22px">
+    <a href="https://www.quora.com/profile/BitmasterXor">
+        <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
     </a>
-    <a href="https://www.youtube.com/c/BitmasterXor" style="display: inline-block;">
-        <img alt="Link to my YouTube" src="https://img.shields.io/static/v1?label=YouTube&message=/BitmasterXor&color=FF0000&style=for-the-badge&logo=youtube" height="22px">
+    <a href="https://www.youtube.com/c/BitmasterXor">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
     </a>
-    <a href="https://discord.com/users/BitmasterXor" style="display: inline-block;">
-        <img alt="Link to my Discord" src="https://img.shields.io/static/v1?label=Discord&message=BitmasterXor&color=7289DA&style=for-the-badge&logo=discord" height="22px">
+    <a href="https://discord.com/users/BitmasterXor">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-    <br>
+</div>
+
+<!-- Activity Graph -->
+<br/>
+<div align="center">
+    <img alt="BitmasterXor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BitmasterXor&bg_color=0d1117&color=2ef847&line=2ef847&point=FFFFFF&hide_border=true" />
+</div>
+
+<!-- Footer -->
+<div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="Thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=2ef847&center=true&vCenter=true&width=900&lines=Thanks+for+your+visit!;Remember+There+Is+always+a+Crack,+That+is+how+the+Light+Shines+Through!">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Remember:+There+is+always+a+crack%2C+that's+how+the+light+gets+in...✨" alt="Footer Quote"/>
     </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=120&section=footer"/>
 </div>

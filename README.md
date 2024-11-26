@@ -19,81 +19,45 @@
 </div>
 
 <!-- About Me Section -->
-<div style="background: linear-gradient(45deg, #0a0c10, #161b22); padding: 25px; border-radius: 15px; border: 1px solid #2ef847; box-shadow: 0 0 15px rgba(46, 248, 71, 0.2); position: relative; overflow: hidden;">
-    <!-- Matrix Rain Canvas in Background -->
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.1; pointer-events: none;">
-        <img src="https://raw.githubusercontent.com/BitmasterXor/BitmasterXor/main/assets/matrix-rain.gif" style="width: 100%; height: 100%; object-fit: cover;" alt="matrix background"/>
-    </div>
-    <!-- Glitch Effect Title -->
-    <h2 style="color: #2ef847; text-shadow: 2px 2px 10px rgba(46, 248, 71, 0.5); margin-bottom: 25px; font-family: 'Courier New', monospace; position: relative;">
-        <span style="position: relative; display: inline-block;">
-            &lt;/&gt; SYSTEM::PROFILE_DATA
-            <div style="position: absolute; top: -2px; left: -2px; color: #ff0000; opacity: 0.7; animation: glitch 2s infinite;">
-                &lt;/&gt; SYSTEM::PROFILE_DATA
-            </div>
-            <div style="position: absolute; top: 2px; left: 2px; color: #00ff00; opacity: 0.7; animation: glitch 2s infinite reverse;">
-                &lt;/&gt; SYSTEM::PROFILE_DATA
-            </div>
-        </span>
+<div style="background: linear-gradient(to right, #0d1117, #161b22); padding: 20px; border-radius: 10px; border: 1px solid #2ef847">
+    <h2>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> About Me
     </h2>
-    <!-- Grid Container -->
-    <div style="display: grid; gap: 15px; position: relative;">
-        <!-- Terminal-style About Items -->
-        <div class="about-item" style="background: rgba(10, 12, 16, 0.9); padding: 20px; border-radius: 10px; border: 1px solid #2ef847; box-shadow: 0 0 10px rgba(46, 248, 71, 0.1); backdrop-filter: blur(5px); transform: translateZ(0); transition: all 0.3s ease;">
-            <h3 style="color: #2ef847; margin: 0; font-family: 'Courier New', monospace; display: flex; align-items: center; gap: 10px;">
-                <span style="color: #2ef847;">[</span>INIT_SEQUENCE<span style="color: #2ef847;">]</span> > Identity
-            </h3>
-            <p style="margin: 10px 0 0 0; color: #ffffff; font-family: 'Courier New', monospace; line-height: 1.6;">
-                <span style="color: #2ef847;">></span> Hi, I'm @BitmasterXor, deeply immersed in Computer Hacking, IT Security Research, and Malware Development.
-            </p>
+    <div style="display: grid; gap: 15px;">
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">👋 Intro</h3>
+            <p style="margin: 8px 0 0 0;">Hi, I'm @BitmasterXor, deeply immersed in Computer Hacking, IT Security Research, and Malware Development.</p>
         </div>
-        <div class="about-item" style="background: rgba(10, 12, 16, 0.9); padding: 20px; border-radius: 10px; border: 1px solid #2ef847; box-shadow: 0 0 10px rgba(46, 248, 71, 0.1); backdrop-filter: blur(5px); transform: translateZ(0); transition: all 0.3s ease;">
-            <h3 style="color: #2ef847; margin: 0; font-family: 'Courier New', monospace; display: flex; align-items: center; gap: 10px;">
-                <span style="color: #2ef847;">[</span>XP_POINTS<span style="color: #2ef847;">]</span> > Experience
-            </h3>
-            <p style="margin: 10px 0 0 0; color: #ffffff; font-family: 'Courier New', monospace; line-height: 1.6;">
-                <span style="color: #2ef847;">></span> With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.
-            </p>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">💡 Experience</h3>
+            <p style="margin: 8px 0 0 0;">With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.</p>
         </div>
-        <!-- Continue this pattern for other sections, with unique bracket names like [QUEST_LOG], [SKILL_TREE], [MISSION_FOCUS], etc. -->
-        <div class="about-item" style="background: rgba(10, 12, 16, 0.9); padding: 20px; border-radius: 10px; border: 1px solid #2ef847; box-shadow: 0 0 10px rgba(46, 248, 71, 0.1); backdrop-filter: blur(5px); transform: translateZ(0); transition: all 0.3s ease;">
-            <h3 style="color: #2ef847; margin: 0; font-family: 'Courier New', monospace; display: flex; align-items: center; gap: 10px;">
-                <span style="color: #2ef847;">[</span>NETWORK_NODE<span style="color: #2ef847;">]</span> > Connect
-            </h3>
-            <p style="margin: 10px 0 0 0; color: #ffffff; font-family: 'Courier New', monospace; line-height: 1.6;">
-                <span style="color: #2ef847;">></span> Reach out to me if you're interested in partaking in this IT journey with me and my fellow researchers!
-            </p>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">🌱 Journey</h3>
+            <p style="margin: 8px 0 0 0;">My journey in malware analysis spans numerous investigations, dissecting and understanding the inner workings of various types of malicious software.</p>
         </div>
-    </div>
-    <!-- Terminal Decoration -->
-    <div style="margin-top: 20px; font-family: 'Courier New', monospace; color: #2ef847; font-size: 12px;">
-        <!-- ASCII Art -->
-        <pre style="color: #2ef847; font-size: 10px;">
- ____  _ _                    _           __  __
-|  _ \(_) |_ _ __ ___   __ _| |_ ___ _ _\ \/ /___  _ __ 
-| |_) | | __| '_ ` _ \ / _` | __/ _ \ '__\  // _ \| '__|
-|  _ <| | |_| | | | | | (_| | ||  __/ |  /  \ (_) | |   
-|_| \_\_|\__|_| |_| |_|\__,_|\__\___|_| /_/\_\___/|_|   
-        </pre>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">💼 Expertise</h3>
+            <p style="margin: 8px 0 0 0;">Specializing in native programming languages, I utilize my expertise to develop Malware For Educational purposes.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">🔍 Passion</h3>
+            <p style="margin: 8px 0 0 0;">My passion lies in unraveling the complexities of malware, identifying patterns, and developing innovative strategies to understand how malware works under the hood.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">💞 Collaboration</h3>
+            <p style="margin: 8px 0 0 0;">Collaborating on malware research projects is where I thrive, leveraging my skills to contribute meaningfully to the cybersecurity community.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">🚀 Innovation</h3>
+            <p style="margin: 8px 0 0 0;">With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">📬 Connect</h3>
+            <p style="margin: 8px 0 0 0;">Reach out to me if you're interested in partaking in this IT journey with me and my fellow researchers!</p>
+        </div>
     </div>
 </div>
-
-<style>
-@keyframes glitch {
-    0% { transform: translate(0) }
-    20% { transform: translate(-2px, 2px) }
-    40% { transform: translate(-2px, -2px) }
-    60% { transform: translate(2px, 2px) }
-    80% { transform: translate(2px, -2px) }
-    100% { transform: translate(0) }
-}
-
-.about-item:hover {
-    transform: translateY(-2px) translateZ(0);
-    box-shadow: 0 5px 15px rgba(46, 248, 71, 0.2);
-    border-color: #4eff8f;
-}
-</style>
 
 <!-- Connect Section -->
 <h2>🌐 Connect With Me</h2>

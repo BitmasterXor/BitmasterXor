@@ -18,6 +18,12 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitmasterXor&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=2ef847&bg_color=0d1117"/>
 </div>
 
+<!-- Activity Graph -->
+<br/>
+<div align="center">
+    <img alt="BitmasterXor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BitmasterXor&bg_color=0d1117&color=2ef847&line=2ef847&point=FFFFFF&hide_border=true" />
+</div>
+
 <!-- About Me Section -->
 <div style="background: linear-gradient(to right, #0d1117, #161b22); padding: 20px; border-radius: 10px; border: 1px solid #2ef847">
     <h2>
@@ -74,12 +80,6 @@
     <a href="https://discord.com/users/BitmasterXor">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-</div>
-
-<!-- Activity Graph -->
-<br/>
-<div align="center">
-    <img alt="BitmasterXor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BitmasterXor&bg_color=0d1117&color=2ef847&line=2ef847&point=FFFFFF&hide_border=true" />
 </div>
 
 <!-- Footer -->

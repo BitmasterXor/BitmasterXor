@@ -23,43 +23,35 @@
     <h2>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> About Me
     </h2>
-    <div></div>
     <div style="display: grid; gap: 15px;">
         <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
             <h3 style="color: #2ef847; margin: 0;">👋 Intro</h3>
             <p style="margin: 8px 0 0 0;">Hi, I'm @BitmasterXor, deeply immersed in Computer Hacking, IT Security Research, and Malware Development.</p>
         </div>
-
         <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
             <h3 style="color: #2ef847; margin: 0;">💡 Experience</h3>
             <p style="margin: 8px 0 0 0;">With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.</p>
         </div>
-
         <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
             <h3 style="color: #2ef847; margin: 0;">🌱 Journey</h3>
             <p style="margin: 8px 0 0 0;">My journey in malware analysis spans numerous investigations, dissecting and understanding the inner workings of various types of malicious software.</p>
         </div>
-
         <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
             <h3 style="color: #2ef847; margin: 0;">💼 Expertise</h3>
             <p style="margin: 8px 0 0 0;">Specializing in native programming languages, I utilize my expertise to develop Malware For Educational purposes.</p>
         </div>
-
         <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
             <h3 style="color: #2ef847; margin: 0;">🔍 Passion</h3>
             <p style="margin: 8px 0 0 0;">My passion lies in unraveling the complexities of malware, identifying patterns, and developing innovative strategies to understand how malware works under the hood.</p>
         </div>
-
         <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
             <h3 style="color: #2ef847; margin: 0;">💞 Collaboration</h3>
             <p style="margin: 8px 0 0 0;">Collaborating on malware research projects is where I thrive, leveraging my skills to contribute meaningfully to the cybersecurity community.</p>
         </div>
-
         <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
             <h3 style="color: #2ef847; margin: 0;">🚀 Innovation</h3>
             <p style="margin: 8px 0 0 0;">With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.</p>
         </div>
-
         <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
             <h3 style="color: #2ef847; margin: 0;">📬 Connect</h3>
             <p style="margin: 8px 0 0 0;">Reach out to me if you're interested in partaking in this IT journey with me and my fellow researchers!</p>

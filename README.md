@@ -85,7 +85,7 @@
 <!-- Footer -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;There+is+always+a+crack%2C+that's+how+the+light+Shines+through!...✨" alt="Footer Quote"/>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!;There+is+always+a+crack...;That's+how+the+light+shines+through+%E2%9C%A8" alt="Footer Quote"/>
     </a>
 </div>
 

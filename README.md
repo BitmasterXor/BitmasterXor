@@ -1,71 +1,99 @@
+<!-- Header Banner -->
 <div id="top"></div>
-
 <div align="center">
     <img width="100%" alt="Welcome to my profile!" src="https://github.com/BitmasterXor/BitmasterXor/blob/main/assets/header.png?raw=true">
+Copy<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=BitmasterXor&style=flat-square&color=2ef847" alt="Profile Views"/>
 </div>
-
+<!-- Dynamic Text -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23C9FFB6&size=30&center=true&vCenter=true&width=450&lines=I'm+BitmasterXor;Delphi+Is+My+Language!;The+Language+Of+The+GODS!" alt="Delphi Developer, Malware Developer, IT Security Researcher">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=500&lines=I'm+BitmasterXor;Delphi+Expert;Security+Researcher;Malware+Analyst" alt="Typing SVG" />
     </a>
 </div>
-
+<!-- GitHub Stats Section -->
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BitmasterXor&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=2ef847&icon_color=2ef847&bg_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitmasterXor&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=2ef847&bg_color=0d1117"/>
+</div>
+<!-- About Me Section -->
 <div>
-    <h2>ℹ️ About Me:</h2>
-    <table>
-        <tr>
-            <td>👋</td>
-            <td>Hi, I’m @BitmasterXor, deeply immersed in Computer Hacking, IT Security Research, and Malware Development.</td>
-        </tr>
-        <tr>
-            <td>💡</td>
-            <td>With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.</td>
-        </tr>
-        <tr>
-            <td>🌱</td>
-            <td>My journey in malware analysis spans numerous investigations, dissecting and understanding the inner workings of various types of malicious software.</td>
-        </tr>
-        <tr>
-            <td>💼</td>
-            <td>Specializing in native programming languages, I utilize my expertise to develop Malware For Educational purposes.</td>
-        </tr>
-        <tr>
-            <td>🔍</td>
-            <td>My passion lies in unraveling the complexities of malware, identifying patterns, and developing innovative strategies to understand how malware works under the hood.</td>
-        </tr>
-        <tr>
-            <td>💞</td>
-            <td>Collaborating on malware research projects is where I thrive, leveraging my skills to contribute meaningfully to the cybersecurity community.</td>
-        </tr>
-        <tr>
-            <td>🚀</td>
-            <td>With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.</td>
-        </tr>
-        <tr>
-            <td>📬</td>
-            <td>Reach out to me if you're interested in partaking in this IT journey with me and my fellow researchers!</td>
-        </tr>
-    </table>
-</div>
+    <h2>🔍 About Me</h2>
+    <img align="right" height="150" src="https://raw.githubusercontent.com/BitmasterXor/BitmasterXor/main/assets/matrix.gif" />
+pythonCopyclass SecurityResearcher:
+    def __init__(self):
+        self.name = "BitmasterXor"
+        self.role = "Malware Analyst & Security Researcher"
+        self.language_spoken = ["en_US"]
+        self.code = ["Delphi", "Assembly", "Python", "C++"]
+        self.expertise = ["Malware Analysis", "Reverse Engineering", 
+                         "IT Security", "Threat Research"]
+        self.experience = "10+ years"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's make the digital world safer together.")
 
-<h2>:busts_in_silhouette: Connect With Me:</h2>
+me = SecurityResearcher()
+me.say_hi()
+</div>
+<!-- Skills Section -->
+<h2>🛠️ Technical Arsenal</h2>
 <div align="center">
-    <a href="https://www.reddit.com/user/BitmasterXor" style="display: inline-block;">
-        <img alt="Link to my Reddit" src="https://img.shields.io/static/v1?label=Reddit&message=/BitmasterXor&color=FF4500&style=for-the-badge&logo=reddit" height="22px">
+    <img src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/IDA_Pro-4B275F?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/x64dbg-3DA639?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Ghidra-DB3552?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/WinDbg-0078D4?style=for-the-badge" />
+</div>
+<!-- Key Points -->
+<h2>💡 Focus Areas</h2>
+<table>
+    <tr>
+        <td>🔬</td>
+        <td><b>Research:</b> Deep diving into advanced malware analysis and threat intelligence.</td>
+    </tr>
+    <tr>
+        <td>🛡️</td>
+        <td><b>Expertise:</b> Over a decade of experience in Delphi programming and security research.</td>
+    </tr>
+    <tr>
+        <td>🎯</td>
+        <td><b>Mission:</b> Understanding malware mechanics for educational and defensive purposes.</td>
+    </tr>
+    <tr>
+        <td>🤝</td>
+        <td><b>Collaboration:</b> Actively contributing to the cybersecurity community through research and knowledge sharing.</td>
+    </tr>
+</table>
+<!-- Connect Section -->
+<h2>🌐 Connect With Me</h2>
+<div align="center">
+    <a href="https://www.reddit.com/user/BitmasterXor">
+        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
     </a>
-    <a href="https://www.quora.com/profile/BitmasterXor" style="display: inline-block;">
-        <img alt="Link to my Quora" src="https://img.shields.io/static/v1?label=Quora&message=/BitmasterXor&color=B92B27&style=for-the-badge&logo=quora" height="22px">
+    <a href="https://www.quora.com/profile/BitmasterXor">
+        <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
     </a>
-    <a href="https://www.youtube.com/c/BitmasterXor" style="display: inline-block;">
-        <img alt="Link to my YouTube" src="https://img.shields.io/static/v1?label=YouTube&message=/BitmasterXor&color=FF0000&style=for-the-badge&logo=youtube" height="22px">
+    <a href="https://www.youtube.com/c/BitmasterXor">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
     </a>
-    <a href="https://discord.com/users/BitmasterXor" style="display: inline-block;">
-        <img alt="Link to my Discord" src="https://img.shields.io/static/v1?label=Discord&message=BitmasterXor&color=7289DA&style=for-the-badge&logo=discord" height="22px">
-    </a>
-    <br>
-    <a href="https://git.io/typing-svg">
-        <img alt="Thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=2ef847&center=true&vCenter=true&width=900&lines=Thanks+for+your+visit!;Remember+There+Is+always+a+Crack,+That+is+how+the+Light+Shines+Through!">
+    <a href="https://discord.com/users/BitmasterXor">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
 </div>
-
-
+<!-- Activity Graph -->
+<br/>
+<div align="center">
+    <img alt="BitmasterXor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BitmasterXor&bg_color=0d1117&color=2ef847&line=2ef847&point=FFFFFF&hide_border=true" />
+</div>
+<!-- Footer -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Remember:+There+is+always+a+crack%2C+that's+how+the+light+gets+in...✨" alt="Footer Quote"/>
+    </a>
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=120&section=footer"/>

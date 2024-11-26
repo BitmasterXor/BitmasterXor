@@ -23,7 +23,8 @@
     <h2>🔍 About Me</h2>
     <img align="right" height="150" src="https://raw.githubusercontent.com/BitmasterXor/BitmasterXor/main/assets/matrix.gif" />
     
-```python
+    <div align="left">
+        <pre><code class="language-python">
 class SecurityResearcher:
     def __init__(self):
         self.name = "BitmasterXor"
@@ -39,70 +40,6 @@ class SecurityResearcher:
 
 me = SecurityResearcher()
 me.say_hi()
+        </code></pre>
+    </div>
 </div>
-<!-- Skills Section -->
-<h2>🛠️ Technical Arsenal</h2>
-<div align="center">
-    <img src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <br/>
-    <img src="https://img.shields.io/badge/IDA_Pro-4B275F?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/x64dbg-3DA639?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Ghidra-DB3552?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/WinDbg-0078D4?style=for-the-badge" />
-</div>
-<!-- Streak Stats -->
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BitmasterXor&theme=black-ice&hide_border=true&stroke=2ef847&background=0D1117&ring=2ef847&fire=2ef847&currStreakLabel=2ef847" alt="streak stats"/>
-</div>
-<!-- Key Points -->
-<h2>💡 Focus Areas</h2>
-<table>
-    <tr>
-        <td>🔬</td>
-        <td><b>Research:</b> Deep diving into advanced malware analysis and threat intelligence.</td>
-    </tr>
-    <tr>
-        <td>🛡️</td>
-        <td><b>Expertise:</b> Over a decade of experience in Delphi programming and security research.</td>
-    </tr>
-    <tr>
-        <td>🎯</td>
-        <td><b>Mission:</b> Understanding malware mechanics for educational and defensive purposes.</td>
-    </tr>
-    <tr>
-        <td>🤝</td>
-        <td><b>Collaboration:</b> Actively contributing to the cybersecurity community through research and knowledge sharing.</td>
-    </tr>
-</table>
-<!-- Connect Section -->
-<h2>🌐 Connect With Me</h2>
-<div align="center">
-    <a href="https://www.reddit.com/user/BitmasterXor">
-        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
-    </a>
-    <a href="https://www.quora.com/profile/BitmasterXor">
-        <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
-    </a>
-    <a href="https://www.youtube.com/c/BitmasterXor">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-    </a>
-    <a href="https://discord.com/users/BitmasterXor">
-        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-</div>
-<!-- Activity Graph -->
-<br/>
-<div align="center">
-    <img alt="BitmasterXor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BitmasterXor&bg_color=0d1117&color=2ef847&line=2ef847&point=FFFFFF&hide_border=true" />
-</div>
-<!-- Footer -->
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Remember:+There+is+always+a+crack%2C+that's+how+the+light+gets+in...✨" alt="Footer Quote"/>
-    </a>
-</div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=120&section=footer"/>
-```

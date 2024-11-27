@@ -82,6 +82,23 @@
     </a>
 </div>
 
+<!-- Donation Section -->
+<div style="background: linear-gradient(to right, #0d1117, #161b22); padding: 20px; border-radius: 10px; border: 1px solid #2ef847; margin: 20px 0;">
+    <h2>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Bitcoin" width="25" height="25" /> Support My Work
+    </h2>
+    <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+        <h3 style="color: #2ef847; margin: 0;">₿ Bitcoin Donations</h3>
+        <p style="margin: 8px 0 0 0;">If you find my work valuable and would like to support my research and development efforts, you can contribute via Bitcoin:</p>
+        <div style="background: #161b22; border: 1px solid #2ef847; border-radius: 8px; padding: 15px; margin-top: 15px; display: flex; align-items: center; justify-content: center; flex-direction: column;">
+            <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white&color=0d1117" alt="Bitcoin"/>
+            <code style="color: #2ef847; background: #0d1117; padding: 10px; border-radius: 5px; margin-top: 10px; font-family: 'JetBrains Mono', monospace;">3LA4u7AN7JmGnEGrKAWMcJXaR54XVvPWmd</code>
+        </div>
+        <p style="margin: 15px 0 0 0; font-size: 0.9em; color: #888;">Your support helps me continue developing tools and conducting research in cybersecurity. Thank you! 🙏</p>
+    </div>
+</div>
+
+
 <!-- Footer -->
 <div align="center">
     <a href="https://git.io/typing-svg">

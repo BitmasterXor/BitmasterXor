@@ -1,183 +1,130 @@
 <!-- Header Banner -->
 <div id="top"></div>
-<style>
-  /* Custom 3D Styles */
-  :root {
-    --neon-green: #2ef847;
-    --dark-bg: #0d1117;
-  }
-  
-  .profile-3d-container {
-    perspective: 1000px;
-    margin: 2rem 0;
-  }
-  
-  .profile-card {
-    background: var(--dark-bg);
-    border: 2px solid var(--neon-green);
-    border-radius: 15px;
-    padding: 20px;
-    transform-style: preserve-3d;
-    transition: transform 0.5s ease;
-    position: relative;
-    box-shadow: 0 0 20px rgba(46, 248, 71, 0.2);
-  }
-  
-  .profile-card:hover {
-    transform: translateZ(20px) rotateX(5deg);
-  }
-  
-  .about-item {
-    transform-style: preserve-3d;
-    transition: all 0.3s ease;
-    border: 1px solid var(--neon-green);
-  }
-  
-  .about-item:hover {
-    transform: translateZ(10px);
-    box-shadow: 0 0 15px rgba(46, 248, 71, 0.3);
-  }
-  
-  .about-item h3 {
-    transform: translateZ(5px);
-  }
-  
-  .stats-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-    margin: 2rem 0;
-  }
-  
-  .stats-card {
-    background: rgba(13, 17, 23, 0.9);
-    border: 1px solid var(--neon-green);
-    border-radius: 10px;
-    padding: 15px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  
-  .stats-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 5px 15px rgba(46, 248, 71, 0.2);
-  }
-  
-  .connect-buttons {
-    display: flex;
-    gap: 15px;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin: 2rem 0;
-  }
-  
-  .connect-button {
-    transform-style: preserve-3d;
-    transition: transform 0.3s ease;
-  }
-  
-  .connect-button:hover {
-    transform: translateZ(10px) scale(1.05);
-  }
-  
-  .donation-container {
-    position: relative;
-    padding: 2rem;
-    background: linear-gradient(45deg, rgba(46, 248, 71, 0.1), rgba(13, 17, 23, 0.9));
-    border-radius: 15px;
-    transform-style: preserve-3d;
-    transition: transform 0.5s ease;
-  }
-  
-  .donation-container:hover {
-    transform: translateZ(15px);
-  }
-  
-  /* Animated background effect */
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  
-  body {
-    background: linear-gradient(-45deg, #0d1117, #161b22, #1f2428, #24292e);
-    background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
-  }
-  
-  /* Neon text effect */
-  .neon-text {
-    color: var(--neon-green);
-    text-shadow: 0 0 5px var(--neon-green),
-                 0 0 10px var(--neon-green),
-                 0 0 20px var(--neon-green);
-  }
-</style>
-
-<div align="center" class="profile-3d-container">
+<div align="center">
     <img width="100%" alt="Welcome to my profile!" src="https://github.com/BitmasterXor/BitmasterXor/blob/main/assets/header.png?raw=true">
-    <div class="profile-card">
-        <img src="https://komarev.com/ghpvc/?username=BitmasterXor&style=flat-square&color=2ef847" alt="Profile Views"/>
-        <div class="neon-text">
-            <h1>BitmasterXor</h1>
-            <h3>Delphi Expert | Security Researcher | Malware Analyst</h3>
+    <img src="https://komarev.com/ghpvc/?username=BitmasterXor&style=flat-square&color=2ef847" alt="Profile Views"/>
+</div>
+
+<!-- Dynamic Text -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=500&lines=I'm+BitmasterXor;Delphi+Expert;Security+Researcher;Malware+Analyst" alt="Typing SVG" />
+    </a>
+</div>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BitmasterXor&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=2ef847&icon_color=2ef847&bg_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitmasterXor&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=2ef847&bg_color=0d1117"/>
+</div>
+
+<!-- Activity Graph -->
+<br/>
+<div align="center">
+    <img alt="BitmasterXor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BitmasterXor&bg_color=0d1117&color=2ef847&line=2ef847&point=FFFFFF&hide_border=true" />
+</div>
+
+<!-- About Me Section -->
+<div style="background: linear-gradient(to right, #0d1117, #161b22); padding: 20px; border-radius: 10px; border: 1px solid #2ef847">
+    <h2>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> About Me
+    </h2>
+    <div style="display: grid; gap: 15px;">
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">👋 Intro</h3>
+            <p style="margin: 8px 0 0 0;">Hi, I'm @BitmasterXor, deeply immersed in Computer Hacking, IT Security Research, and Malware Development.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">💡 Experience</h3>
+            <p style="margin: 8px 0 0 0;">With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">🌱 Journey</h3>
+            <p style="margin: 8px 0 0 0;">My journey in malware analysis spans numerous investigations, dissecting and understanding the inner workings of various types of malicious software.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">💼 Expertise</h3>
+            <p style="margin: 8px 0 0 0;">Specializing in native programming languages, I utilize my expertise to develop Malware For Educational purposes.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">🔍 Passion</h3>
+            <p style="margin: 8px 0 0 0;">My passion lies in unraveling the complexities of malware, identifying patterns, and developing innovative strategies to understand how malware works under the hood.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">💞 Collaboration</h3>
+            <p style="margin: 8px 0 0 0;">Collaborating on malware research projects is where I thrive, leveraging my skills to contribute meaningfully to the cybersecurity community.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">🚀 Innovation</h3>
+            <p style="margin: 8px 0 0 0;">With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">📬 Connect</h3>
+            <p style="margin: 8px 0 0 0;">Reach out to me if you're interested in partaking in this IT journey with me and my fellow researchers!</p>
         </div>
     </div>
 </div>
 
-<!-- Stats Section with 3D effect -->
-<div class="stats-container">
-    <div class="stats-card">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BitmasterXor&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=2ef847&icon_color=2ef847&bg_color=0d1117"/>
-    </div>
-    <div class="stats-card">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitmasterXor&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=2ef847&bg_color=0d1117"/>
-    </div>
-</div>
-
-<!-- About Me Section with 3D cards -->
-<div class="profile-3d-container">
-    <div class="profile-card">
-        <h2 class="neon-text">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> About Me
-        </h2>
-        <div style="display: grid; gap: 15px;">
-            <!-- Your existing about-items with new 3D class -->
-            <div class="about-item">
-                <h3 class="neon-text">👋 Intro</h3>
-                <p>Hi, I'm @BitmasterXor, deeply immersed in Computer Hacking, IT Security Research, and Malware Development.</p>
-            </div>
-            <!-- Add remaining about-items similarly -->
-        </div>
-    </div>
-</div>
-
-<!-- Connect Section with 3D buttons -->
-<div class="connect-buttons">
-    <a href="https://www.reddit.com/user/BitmasterXor" class="connect-button">
+<!-- Connect Section -->
+<h2>🌐 Connect With Me</h2>
+<div align="center">
+    <a href="https://www.reddit.com/user/BitmasterXor">
         <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
     </a>
-    <!-- Add remaining social media buttons -->
+    <a href="https://www.quora.com/profile/BitmasterXor">
+        <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
+    </a>
+    <a href="https://www.youtube.com/c/BitmasterXor">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+    </a>
+    <a href="https://discord.com/users/BitmasterXor">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
 </div>
 
-<!-- Donation Section with 3D effect -->
-<div class="donation-container">
-    <h2 class="neon-text">Support My Work</h2>
-    <table>
-        <tr>
-            <td align="center">
-                <img width="400" src="https://img.shields.io/badge/Bitcoin-Donation-2ef847?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-                <br/>
-                <img width="400" src="https://img.shields.io/badge/3LA4u7AN7JmGnEGrKAWMcJXaR54XVvPWmd-2ef847?style=flat-square&logo=bitcoin&logoColor=white"/>
-            </td>
-        </tr>
-    </table>
+<!-- Donation Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=100&section=header&text=Support%20My%20Work&fontSize=40&fontAlign=50&fontColor=2ef847"/>
 </div>
 
-<!-- Footer with 3D wave effect -->
-<div align="center" class="profile-3d-container">
-    <div class="neon-text">
-        <h2>Thanks for visiting!</h2>
-        <p>There is always a crack... That's how the light shines through ✨</p>
-    </div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=800&lines=Your+support+fuels+my+research+and+development;Every+contribution+makes+a+difference" alt="Support Message"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="400" src="https://img.shields.io/badge/Bitcoin-Donation-2ef847?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+        <br/>
+        <img width="400" src="https://img.shields.io/badge/3LA4u7AN7JmGnEGrKAWMcJXaR54XVvPWmd-2ef847?style=flat-square&logo=bitcoin&logoColor=white"/>
+        <br/>
+        <details>
+          <summary><b>🔄 Click to Show/Hide QR Code</b></summary>
+          <br/>
+          <img width="200" src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=3LA4u7AN7JmGnEGrKAWMcJXaR54XVvPWmd&bgcolor=0d1117&color=2ef847&margin=10" alt="BTC QR Code"/>
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=100&section=footer"/>
+</div>
+
+
+<!-- Footer -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!;There+is+always+a+crack...;That's+how+the+light+shines+through+%E2%9C%A8" alt="Footer Quote"/>
+    </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=120&section=footer"/>
 </div>

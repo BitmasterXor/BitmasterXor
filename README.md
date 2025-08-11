@@ -1,47 +1,129 @@
-<!-- Cyberpunk Green Neon GitHub Profile README -->
+<!-- Header Banner -->
+<div id="top"></div>
+<div align="center">
+    <img width="100%" alt="Welcome to my profile!" src="https://github.com/BitmasterXor/BitmasterXor/blob/main/assets/header.png?raw=true">
+    <img src="https://komarev.com/ghpvc/?username=BitmasterXor&style=flat-square&color=2ef847" alt="Profile Views"/>
+</div>
 
-<h1 align="center" style="color:#00FF00; font-family: 'Courier New', monospace; text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00;">
-  ⚡ BitmasterXor ⚡
-</h1>
+<!-- Dynamic Text -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=500&lines=I'm+BitmasterXor;Delphi+Expert;Security+Researcher;" alt="Typing SVG" />
+    </a>
+</div>
 
-<p align="center" style="color:#00FF00; font-family: 'Courier New', monospace; font-size: 18px; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00;">
-  High-Performance Native Code • Malware Research • Security Exploitation
-</p>
+<!-- GitHub Stats Section -->
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BitmasterXor&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=2ef847&icon_color=2ef847&bg_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitmasterXor&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=2ef847&bg_color=0d1117"/>
+</div>
 
----
+<!-- Activity Graph -->
+<br/>
+<div align="center">
+    <img alt="BitmasterXor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BitmasterXor&bg_color=0d1117&color=2ef847&line=2ef847&point=FFFFFF&hide_border=true" />
+</div>
 
-## 🖥️ About Me
-+ Name: BitmasterXor  
-+ Role: Delphi Expert | Security Researcher | Malware Analyst  
-+ Skills: Reverse Engineering, Native Programming, Memory Injection  
-+ Motto: "There is always a crack... that's how the light gets in."
+<!-- About Me Section -->
+<div style="background: linear-gradient(to right, #0d1117, #161b22); padding: 20px; border-radius: 10px; border: 1px solid #2ef847">
+    <h2>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> About Me
+    </h2>
+    <div style="display: grid; gap: 15px;">
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">👋 Intro</h3>
+            <p style="margin: 8px 0 0 0;">Hi, I'm @BitmasterXor, deeply immersed in Computer Hacking, IT Security Research, and Malware Development.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">💡 Experience</h3>
+            <p style="margin: 8px 0 0 0;">With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">🌱 Journey</h3>
+            <p style="margin: 8px 0 0 0;">My journey in malware analysis spans numerous investigations, dissecting and understanding the inner workings of various types of malicious software.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">💼 Expertise</h3>
+            <p style="margin: 8px 0 0 0;">Specializing in native programming languages, I utilize my expertise to develop Malware For Educational purposes.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">🔍 Passion</h3>
+            <p style="margin: 8px 0 0 0;">My passion lies in unraveling the complexities of malware, identifying patterns, and developing innovative strategies to understand how malware works under the hood.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">💞 Collaboration</h3>
+            <p style="margin: 8px 0 0 0;">Collaborating on malware research projects is where I thrive, leveraging my skills to contribute meaningfully to the cybersecurity community.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">🚀 Innovation</h3>
+            <p style="margin: 8px 0 0 0;">With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.</p>
+        </div>
+        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
+            <h3 style="color: #2ef847; margin: 0;">📬 Connect</h3>
+            <p style="margin: 8px 0 0 0;">Reach out to me if you're interested in partaking in this IT journey with me and my fellow researchers!</p>
+        </div>
+    </div>
+</div>
 
----
+<!-- Connect Section -->
+<h2>🌐 Connect With Me</h2>
+<div align="center">
+    <a href="https://www.reddit.com/user/BitmasterXor">
+        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
+    </a>
+    <a href="https://www.quora.com/profile/BitmasterXor">
+        <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
+    </a>
+    <a href="https://www.youtube.com/c/BitmasterXor">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+    </a>
+    <a href="https://discord.com/users/BitmasterXor">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+</div>
 
-## ⚙️ Tech Stack
-+ Languages: Delphi/Pascal, Assembly, C  
-+ Focus: High-performance native code without third-party bloat  
-+ Tools: IDA Pro, x64dbg, Custom in-house tooling  
-+ Domains: Security Research, Malware Analysis, Reverse Engineering
+<!-- Donation Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=100&section=header&text=Support%20My%20Work&fontSize=40&fontAlign=50&fontColor=2ef847"/>
+</div>
 
----
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=800&lines=Your+support+fuels+my+research+and+development;Every+contribution+makes+a+difference" alt="Support Message"/>
+  </a>
+</div>
 
-## 🔥 Current Projects
-+ Stealth RDP session handler bypass  
-+ Intra-frame native video codec in Delphi  
-+ Advanced reflective DLL injector  
-+ Delta-screen remote desktop capture system
+<br/>
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="400" src="https://img.shields.io/badge/Bitcoin-Donation-2ef847?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+        <br/>
+        <img width="400" src="https://img.shields.io/badge/3LA4u7AN7JmGnEGrKAWMcJXaR54XVvPWmd-2ef847?style=flat-square&logo=bitcoin&logoColor=white"/>
+        <br/>
+        <details>
+          <summary><b>🔄 Click to Show/Hide QR Code</b></summary>
+          <br/>
+          <img width="200" src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=3LA4u7AN7JmGnEGrKAWMcJXaR54XVvPWmd&bgcolor=0d1117&color=2ef847&margin=10" alt="BTC QR Code"/>
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📡 Connect With Me
-<p align="center">
-  <a href="https://hackergrounds.com" style="color:#00FF00; text-decoration:none;">💻 Hackergrounds</a> •
-  <a href="https://github.com/BitmasterXor" style="color:#00FF00; text-decoration:none;">🐙 GitHub</a>
-</p>
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=100&section=footer"/>
+</div>
 
----
+<!-- Footer -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!;There+is+always+a+crack...;That's+how+the+light+shines+through+%E2%9C%A8" alt="Footer Quote"/>
+    </a>
+</div>
 
-<p align="center" style="color:#00FF00; text-shadow: 0 0 5px #00FF00, 0 0 15px #00FF00; font-family: 'Courier New', monospace;">
-  ☣️ "Exploit. Innovate. Repeat." ☣️
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=120&section=footer"/>
+</div>

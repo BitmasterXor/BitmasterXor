@@ -29,7 +29,7 @@
     + Name: BitmasterXor
     + Role: Delphi Expert | Security Researcher | Malware Analyst
     + Skills: Reverse Engineering, Native Programming, Memory Injection
-    + Motto: "There is always a crack... that's how the light gets in."
+    + Motto: "There is always a crack... that's how the light shines through!"
 
 - 🕵️ **Experience**: Over a decade in Delphi programming & malware research  
 - 🔍 **Focus**: Reverse engineering, native exploits, security tooling  

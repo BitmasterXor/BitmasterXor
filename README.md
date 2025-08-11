@@ -118,6 +118,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=100&section=footer"/>
 </div>
 
+
 <!-- Footer -->
 <div align="center">
     <a href="https://git.io/typing-svg">

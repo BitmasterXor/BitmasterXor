@@ -12,12 +12,6 @@
     </a>
 </div>
 
-<!-- GitHub Stats Section -->
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BitmasterXor&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=2ef847&icon_color=2ef847&bg_color=0d1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitmasterXor&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=2ef847&bg_color=0d1117"/>
-</div>
-
 <!-- Activity Graph -->
 <br/>
 <div align="center">

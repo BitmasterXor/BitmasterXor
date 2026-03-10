@@ -122,7 +122,7 @@ Sponsorship helps support:
 
 ### ⚡ Thanks for visiting my profile
 
-*"There is always a crack in everything — that's how the light gets in."*
+*"There is always a crack — that's how the light shines through!"*
 
 </div>
 

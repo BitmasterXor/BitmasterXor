@@ -1,124 +1,131 @@
-<!-- Header Banner -->
-<div id="top"></div>
+<!-- HEADER -->
 <div align="center">
-    <img width="100%" alt="Welcome to my profile!" src="https://github.com/BitmasterXor/BitmasterXor/blob/main/assets/header.png?raw=true">
-    <img src="https://komarev.com/ghpvc/?username=BitmasterXor&style=flat-square&color=2ef847" alt="Profile Views"/>
+
+<img width="100%" src="https://github.com/BitmasterXor/BitmasterXor/blob/main/assets/header.png?raw=true">
+
+![Profile Views](https://komarev.com/ghpvc/?username=BitmasterXor&style=flat-square&color=2ef847)
+
 </div>
 
-<!-- Dynamic Text -->
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=500&lines=I'm+BitmasterXor;Delphi+Expert;Security+Researcher;" alt="Typing SVG" />
-    </a>
-</div>
-
-<!-- Activity Graph -->
-<br/>
-<div align="center">
-    <img alt="BitmasterXor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BitmasterXor&bg_color=0d1117&color=2ef847&line=2ef847&point=FFFFFF&hide_border=true" />
-</div>
-
-<!-- About Me Section -->
-<div style="background: linear-gradient(to right, #0d1117, #161b22); padding: 20px; border-radius: 10px; border: 1px solid #2ef847">
-    <h2>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> About Me
-    </h2>
-    <div style="display: grid; gap: 15px;">
-        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
-            <h3 style="color: #2ef847; margin: 0;">👋 Intro</h3>
-            <p style="margin: 8px 0 0 0;">Hi, I'm @BitmasterXor, deeply immersed in Computer Hacking, IT Security Research, and Malware Development.</p>
-        </div>
-        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
-            <h3 style="color: #2ef847; margin: 0;">💡 Experience</h3>
-            <p style="margin: 8px 0 0 0;">With over a decade of experience in Delphi programming, I've ventured into the intricate world of malware research.</p>
-        </div>
-        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
-            <h3 style="color: #2ef847; margin: 0;">🌱 Journey</h3>
-            <p style="margin: 8px 0 0 0;">My journey in malware analysis spans numerous investigations, dissecting and understanding the inner workings of various types of malicious software.</p>
-        </div>
-        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
-            <h3 style="color: #2ef847; margin: 0;">💼 Expertise</h3>
-            <p style="margin: 8px 0 0 0;">Specializing in native programming languages, I utilize my expertise to develop Malware For Educational purposes.</p>
-        </div>
-        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
-            <h3 style="color: #2ef847; margin: 0;">🔍 Passion</h3>
-            <p style="margin: 8px 0 0 0;">My passion lies in unraveling the complexities of malware, identifying patterns, and developing innovative strategies to understand how malware works under the hood.</p>
-        </div>
-        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
-            <h3 style="color: #2ef847; margin: 0;">💞 Collaboration</h3>
-            <p style="margin: 8px 0 0 0;">Collaborating on malware research projects is where I thrive, leveraging my skills to contribute meaningfully to the cybersecurity community.</p>
-        </div>
-        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
-            <h3 style="color: #2ef847; margin: 0;">🚀 Innovation</h3>
-            <p style="margin: 8px 0 0 0;">With a relentless drive for innovation, I'm committed to staying ahead of the curve in the ever-evolving landscape of cyber threats.</p>
-        </div>
-        <div class="about-item" style="background: rgba(46, 248, 71, 0.05); padding: 15px; border-radius: 8px; border-left: 4px solid #2ef847;">
-            <h3 style="color: #2ef847; margin: 0;">📬 Connect</h3>
-            <p style="margin: 8px 0 0 0;">Reach out to me if you're interested in partaking in this IT journey with me and my fellow researchers!</p>
-        </div>
-    </div>
-</div>
-
-<!-- Connect Section -->
-<h2>🌐 Connect With Me</h2>
-<div align="center">
-    <a href="https://www.reddit.com/user/BitmasterXor">
-        <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
-    </a>
-    <a href="https://www.quora.com/profile/BitmasterXor">
-        <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
-    </a>
-    <a href="https://www.youtube.com/c/BitmasterXor">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-    </a>
-    <a href="https://discord.com/users/BitmasterXor">
-        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-</div>
-
-<!-- Donation Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=100&section=header&text=Support%20My%20Work&fontSize=40&fontAlign=50&fontColor=2ef847"/>
-</div>
+---
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=800&lines=Your+support+fuels+my+research+and+development;Every+contribution+makes+a+difference" alt="Support Message"/>
-  </a>
+
+# ⚡ BitmasterXor
+
+### Native Software Developer • Delphi Expert • Security Researcher
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="400" src="https://img.shields.io/badge/Bitcoin-Donation-2ef847?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-        <br/>
-        <img width="400" src="https://img.shields.io/badge/3LA4u7AN7JmGnEGrKAWMcJXaR54XVvPWmd-2ef847?style=flat-square&logo=bitcoin&logoColor=white"/>
-        <br/>
-        <details>
-          <summary><b>🔄 Click to Show/Hide QR Code</b></summary>
-          <br/>
-          <img width="200" src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=3LA4u7AN7JmGnEGrKAWMcJXaR54XVvPWmd&bgcolor=0d1117&color=2ef847&margin=10" alt="BTC QR Code"/>
-        </details>
-      </td>
-    </tr>
-  </table>
+
+![Delphi](https://img.shields.io/badge/Delphi-Developer-red)
+![Windows](https://img.shields.io/badge/Windows-Native-blue)
+![Security](https://img.shields.io/badge/Security-Research-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-Projects-brightgreen)
+
 </div>
+
+---
+
+# 🧠 About Me
+
+I’m **BitmasterXor**, a software developer and security researcher focused on **high-performance native Windows development**.
+
+My primary language is **Delphi / Object Pascal**, where I build fast native applications, networking systems, developer tools, and experimental research projects.
+
+I enjoy exploring **how systems work internally**, building powerful utilities, and pushing the limits of the Windows platform.
+
+---
+
+# ⚡ Core Focus
+
+• Native Windows development  
+• High-performance networking software  
+• Security research and reverse engineering  
+• Delphi ecosystem tools and libraries  
+• Systems programming and experimentation  
+
+---
+
+# 🚀 Current Projects
+
+Some things I’m actively working on:
+
+• High-performance networking libraries  
+• Windows system utilities  
+• developer productivity tools  
+• experimental security research projects  
+• open-source programming libraries  
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=100&section=footer"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BitmasterXor&bg_color=0d1117&color=2ef847&line=2ef847&point=FFFFFF&hide_border=true" />
+
 </div>
 
+---
 
-<!-- Footer -->
+# 🌐 Connect With Me
+
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!;There+is+always+a+crack...;That's+how+the+light+shines+through+%E2%9C%A8" alt="Footer Quote"/>
-    </a>
+
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/BitmasterXor)
+
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/BitmasterXor)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/BitmasterXor)
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/BitmasterXor)
+
 </div>
+
+---
+
+# ❤️ Support My Work
+
+If you find my projects useful, consider sponsoring development.
+
+Sponsorship helps support:
+
+• new open-source tools  
+• software development  
+• research projects  
+
+👉 **https://github.com/sponsors/BitmasterXor**
+
+---
+
+# ₿ Bitcoin Support
+
+<div align="center">
+
+**BTC Address**
+
+`3LA4u7AN7JmGnEGrKAWMcJXaR54XVvPWmd`
+
+<br>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=3LA4u7AN7JmGnEGrKAWMcJXaR54XVvPWmd&bgcolor=0d1117&color=2ef847&margin=10">
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Thanks for visiting my profile
+
+*"There is always a crack in everything — that's how the light gets in."*
+
+</div>
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ef847&height=120&section=footer"/>
-</div>

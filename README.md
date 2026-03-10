@@ -106,9 +106,9 @@ Sponsorship helps support:
 • software development  
 • research projects  
 
-👉 **https://github.com/sponsors/BitmasterXor**
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20My%20Work-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/BitmasterXor)
 
----
+👉 https://github.com/sponsors/BitmasterXor
 
 # ₿ Bitcoin Support
 

@@ -76,13 +76,21 @@ Some things I’m actively working on:
 
 <div align="center">
 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/BitmasterXor)
+<a href="https://www.reddit.com/user/BitmasterXor">
+<img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="60"/>
+</a>
 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/BitmasterXor)
+<a href="https://www.quora.com/profile/BitmasterXor">
+<img src="https://img.shields.io/badge/-Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" height="60"/>
+</a>
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/BitmasterXor)
+<a href="https://www.youtube.com/c/BitmasterXor">
+<img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="60"/>
+</a>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/BitmasterXor)
+<a href="https://discord.com/users/BitmasterXor">
+<img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="60"/>
+</a>
 
 </div>
 

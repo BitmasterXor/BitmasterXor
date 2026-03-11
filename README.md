@@ -106,9 +106,26 @@ Sponsorship helps support:
 • software development  
 • research projects  
 
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20My%20Work-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/BitmasterXor)
+<div align="center">
 
-👉 https://github.com/sponsors/BitmasterXor
+<a href="https://github.com/sponsors/BitmasterXor">
+<img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20My%20Work-ea4aaa?style=for-the-badge&logo=github" height="60"/>
+</a>
+
+<a href="https://buymeacoffee.com/bitmasterxor">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Development-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" height="60"/>
+</a>
+
+</div>
+
+<div align="center">
+
+👉 https://github.com/sponsors/BitmasterXor  
+👉 https://buymeacoffee.com/bitmasterxor
+
+</div>
+
+---
 
 # ₿ Bitcoin Support
 

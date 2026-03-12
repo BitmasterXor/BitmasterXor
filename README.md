@@ -3,7 +3,6 @@
 
 <img width="100%" src="https://github.com/BitmasterXor/BitmasterXor/blob/main/assets/header.png?raw=true">
 
-![Profile Views](https://komarev.com/ghpvc/?username=BitmasterXor&style=flat-square&color=2ef847)
 
 </div>
 

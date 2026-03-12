@@ -10,15 +10,21 @@
 ---
 <div align="center">
 
-<img src="HelmLeft.png" width="110" align="absmiddle">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<font size="16"><b>BitmasterXor</b></font>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="HelmRight.png" width="110" align="absmiddle">
-
-<br><br>
-
-<b>Native Software Developer • Delphi Expert • Security Researcher</b>
+<table>
+  <tr>
+    <td align="center" valign="middle" width="160">
+      <img src="HelmLeft.png" width="115">
+    </td>
+    <td align="center" valign="middle" width="460">
+      <font size="7"><b>BitmasterXor</b></font>
+      <br><br>
+      <b>Native Software Developer • Delphi Expert • Security Researcher</b>
+    </td>
+    <td align="center" valign="middle" width="160">
+      <img src="HelmRight.png" width="115">
+    </td>
+  </tr>
+</table>
 
 </div>
 

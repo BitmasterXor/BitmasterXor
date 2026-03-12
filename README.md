@@ -79,7 +79,7 @@ Some things I’m actively working on:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BitmasterXor&bg_color=0d1117&color=2ef847&line=2ef847&point=FFFFFF&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BitmasterXor&bg_color=0d1117&color=2ef847&line=2ef847&point=2ef847&area=true&area_color=2ef847&hide_border=true&radius=8"/>
 
 </div>
 

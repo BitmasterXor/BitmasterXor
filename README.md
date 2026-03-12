@@ -8,16 +8,21 @@
 </div>
 
 ---
-<div>
-<p align="center">
-  <img src="HelmLeft.png" width="90" align="middle">
-  &nbsp;&nbsp;&nbsp;
-  <b style="font-size:80px;">BitmasterXor</b>
-  &nbsp;&nbsp;&nbsp;
-  <img src="HelmRight.png" width="90" align="middle">
+<div align="center">
+
+<p>
+  <img src="HelmLeft.png" width="110" style="vertical-align:middle;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-size:96px; font-weight:700; vertical-align:middle;">
+    BitmasterXor
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="HelmRight.png" width="110" style="vertical-align:middle;">
 </p>
 
-### Native Software Developer • Delphi Expert • Security Researcher
+<p style="font-size:22px; font-weight:500;">
+Native Software Developer • Delphi Expert • Security Researcher
+</p>
 
 </div>
 

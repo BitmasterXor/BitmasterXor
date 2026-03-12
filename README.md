@@ -90,19 +90,25 @@ Some things I’m actively working on:
 <div align="center">
 
 <a href="https://www.reddit.com/user/BitmasterXor">
-<img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/Reddit-BitmasterXor-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=1c1c1c" height="55"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.quora.com/profile/BitmasterXor">
-<img src="https://img.shields.io/badge/-Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/Quora-BitmasterXor-B92B27?style=for-the-badge&logo=quora&logoColor=white&labelColor=1c1c1c" height="55"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/c/BitmasterXor">
-<img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/YouTube-BitmasterXor-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1c1c1c" height="55"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://discord.com/users/BitmasterXor">
-<img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/Discord-BitmasterXor-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" height="55"/>
 </a>
 
 </div>

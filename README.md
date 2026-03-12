@@ -11,13 +11,15 @@
 
 <div align="center">
 
-<h1>
-<img src="HelmLeft.png" width="90" style="vertical-align: middle;">
-&nbsp;&nbsp;
-BitmasterXor
-&nbsp;&nbsp;
-<img src="HelmRight.png" width="90" style="vertical-align: middle;">
-</h1>
+<div style="display:flex; align-items:center; justify-content:center; gap:25px;">
+
+<img src="assets/HelmLeft.png" width="90">
+
+<h1 style="margin:0;">BitmasterXor</h1>
+
+<img src="assets/HelmRight.png" width="90">
+
+</div>
 
 ### Native Software Developer • Delphi Expert • Security Researcher
 

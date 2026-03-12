@@ -10,7 +10,7 @@
 ---
 <div align="center">
 
-<table>
+<table border="4" cellpadding="18" cellspacing="0">
   <tr>
     <td align="center" valign="middle" width="160">
       <img src="HelmLeft.png" width="115">
@@ -25,6 +25,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 </div>
 

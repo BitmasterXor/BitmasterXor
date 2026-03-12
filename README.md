@@ -13,11 +13,11 @@
 
 <div style="display:flex; align-items:center; justify-content:center; gap:25px;">
 
-<img src="assets/HelmLeft.png" width="90">
+<img src="HelmLeft.png" width="90">
 
 <h1 style="margin:0;">BitmasterXor</h1>
 
-<img src="assets/HelmRight.png" width="90">
+<img src="HelmRight.png" width="90">
 
 </div>
 

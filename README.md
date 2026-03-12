@@ -156,7 +156,7 @@ Sponsorship helps support:
 
 ### ⚡ Thanks for visiting my profile ⚡
 
-*"There is always a crack — that's how the light shines through!"*
+✨ *"There is always a crack — that's how the light shines through!"* ✨
 
 </div>
 

@@ -8,18 +8,14 @@
 </div>
 
 ---
-
-<div align="center">
-
-<div style="display:flex; align-items:center; justify-content:center; gap:25px;">
-
-<img src="HelmLeft.png" width="90">
-
-<h1 style="margin:0;">BitmasterXor</h1>
-
-<img src="HelmRight.png" width="90">
-
-</div>
+<div>
+<p align="center">
+  <img src="HelmLeft.png" width="90" align="middle">
+  &nbsp;&nbsp;&nbsp;
+  <b style="font-size:40px;">BitmasterXor</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="HelmRight.png" width="90" align="middle">
+</p>
 
 ### Native Software Developer • Delphi Expert • Security Researcher
 

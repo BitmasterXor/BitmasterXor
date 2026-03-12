@@ -10,15 +10,15 @@
 ---
 <div align="center">
 
-<p>
-<img src="HelmLeft.png" width="110">
+<img src="HelmLeft.png" width="110" align="absmiddle">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<font size="7"><b>BitmasterXor</b></font>
+<span style="font-size:60px; font-weight:700;">BitmasterXor</span>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="HelmRight.png" width="110">
-</p>
+<img src="HelmRight.png" width="110" align="absmiddle">
 
-### Native Software Developer • Delphi Expert • Security Researcher
+<br><br>
+
+<b>Native Software Developer • Delphi Expert • Security Researcher</b>
 
 </div>
 

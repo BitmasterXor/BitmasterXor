@@ -11,18 +11,14 @@
 <div align="center">
 
 <p>
-  <img src="HelmLeft.png" width="110" style="vertical-align:middle;">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size:96px; font-weight:700; vertical-align:middle;">
-    BitmasterXor
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="HelmRight.png" width="110" style="vertical-align:middle;">
+<img src="HelmLeft.png" width="110">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<font size="7"><b>BitmasterXor</b></font>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="HelmRight.png" width="110">
 </p>
 
-<p style="font-size:22px; font-weight:500;">
-Native Software Developer • Delphi Expert • Security Researcher
-</p>
+### Native Software Developer • Delphi Expert • Security Researcher
 
 </div>
 

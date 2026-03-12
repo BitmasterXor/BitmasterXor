@@ -11,7 +11,13 @@
 
 <div align="center">
 
-# ⚡ BitmasterXor
+<img src="assets/HelmLeft.png" width="90">
+&nbsp;&nbsp;
+
+# BitmasterXor
+
+&nbsp;&nbsp;
+<img src="assets/HelmRight.png" width="90">
 
 ### Native Software Developer • Delphi Expert • Security Researcher
 

@@ -12,7 +12,7 @@
 
 <img src="HelmLeft.png" width="110" align="absmiddle">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<span style="font-size:60px; font-weight:700;">BitmasterXor</span>
+<span style="font-size:150px; font-weight:700;">BitmasterXor</span>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="HelmRight.png" width="110" align="absmiddle">
 

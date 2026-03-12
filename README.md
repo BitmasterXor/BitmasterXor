@@ -154,7 +154,7 @@ Sponsorship helps support:
 
 <div align="center">
 
-### ⚡ Thanks for visiting my profile
+### ⚡ Thanks for visiting my profile ⚡
 
 *"There is always a crack — that's how the light shines through!"*
 

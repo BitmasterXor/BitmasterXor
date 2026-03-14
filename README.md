@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="ProfBanner.png">
+<img width="100%" src="PFBanner.png">
 
 
 </div>
